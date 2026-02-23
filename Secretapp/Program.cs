@@ -7,7 +7,6 @@
 
         static void Main(string[] args)
         {
-            // något kul
             Console.WriteLine("Hej");
             Menu();
             bool runRrogram = true;
